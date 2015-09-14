@@ -4,7 +4,7 @@ A simple consistent hashing ring implementation in Golang
 
 #Usage
 
-```golang
+```go
   import(
     "fmt"
     "github.com/alash3al/goring"
